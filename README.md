@@ -1,3 +1,4 @@
 # Tic_Tac_ToeGame
 It is a desktop application game
 ![](applicationImg/ss01.png)
+![](applicationImg/ss02.png)
